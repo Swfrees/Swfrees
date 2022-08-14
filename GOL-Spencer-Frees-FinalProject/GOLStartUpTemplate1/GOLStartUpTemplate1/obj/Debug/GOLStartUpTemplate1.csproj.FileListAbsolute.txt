@@ -1,0 +1,12 @@
+C:\Users\Spencer\Full Sail University\Game of Life\GOLStartUpTemplate1\GOLStartUpTemplate1\bin\Debug\GOLStartUpTemplate1.exe.config
+C:\Users\Spencer\Full Sail University\Game of Life\GOLStartUpTemplate1\GOLStartUpTemplate1\bin\Debug\GOLStartUpTemplate1.exe
+C:\Users\Spencer\Full Sail University\Game of Life\GOLStartUpTemplate1\GOLStartUpTemplate1\bin\Debug\GOLStartUpTemplate1.pdb
+C:\Users\Spencer\Full Sail University\Game of Life\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.Form1.resources
+C:\Users\Spencer\Full Sail University\Game of Life\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.Properties.Resources.resources
+C:\Users\Spencer\Full Sail University\Game of Life\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.csproj.GenerateResource.cache
+C:\Users\Spencer\Full Sail University\Game of Life\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Full Sail University\Game of Life\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.exe
+C:\Users\Spencer\Full Sail University\Game of Life\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.pdb
+C:\Users\Spencer\Full Sail University\Game of Life\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.csprojAssemblyReference.cache
+C:\Users\Spencer\Full Sail University\Game of Life\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.Randomizer.resources
+C:\Users\Spencer\Full Sail University\Game of Life\GOLStartUpTemplate1\GOLStartUpTemplate1\obj\Debug\GOLStartUpTemplate1.Settings.resources
